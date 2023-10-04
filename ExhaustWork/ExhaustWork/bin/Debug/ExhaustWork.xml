@@ -1,0 +1,351 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ExhaustWork
+</name>
+</assembly>
+<members>
+<member name="T:ExhaustWork.My.Resources.Resources">
+<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+<member name="P:ExhaustWork.My.Resources.Resources.ResourceManager">
+<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member>
+<member name="P:ExhaustWork.My.Resources.Resources.Culture">
+<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member>
+<member name="P:ExhaustWork.My.Resources.Resources._2">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ExhaustWork.My.Resources.Resources.farmacia03">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ExhaustWork.My.Resources.Resources.sad">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ExhaustWork.My.Resources.Resources.sd">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.BudgetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.SaleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.srttbclientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.SrttbgoodsclientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.UsersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.ДолжностиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.ЕдИзмDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.КодОперацииDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.КупляDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.СкладDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.СотрудникиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.ТоварDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.FindUserDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.BudgetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.SaleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.srttbclientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.SrttbgoodsclientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.UsersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.ДолжностиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.ЕдИзмRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.КодОперацииRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.КупляRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.СкладRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.СотрудникиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.ТоварRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.FindUserRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.BudgetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.SaleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.srttbclientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.SrttbgoodsclientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.UsersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.ДолжностиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.ЕдИзмRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.КодОперацииRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.КупляRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.СкладRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.СотрудникиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.ТоварRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSet.FindUserRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSetTableAdapters.BudgetTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSetTableAdapters.SaleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSetTableAdapters.srttbclientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSetTableAdapters.SrttbgoodsclientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSetTableAdapters.UsersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSetTableAdapters.ДолжностиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSetTableAdapters.ЕдИзмTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSetTableAdapters.КодОперацииTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSetTableAdapters.КупляTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSetTableAdapters.СкладTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSetTableAdapters.СотрудникиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSetTableAdapters.ТоварTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSetTableAdapters.FindUserTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ExhaustWork.shopeDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ExhaustWork.shopeDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ExhaustWork.shopeDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ExhaustWork.shopeDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ExhaustWork.shopeDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ExhaustWork.shopeDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ExhaustWork.shopeDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ExhaustWork.shopeDataSetTableAdapters.TableAdapterManager.UpdateAll(ExhaustWork.shopeDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ExhaustWork.shopeDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,138 @@
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\bin\Release\ExhaustWork.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\bin\Release\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\bin\Release\ExhaustWork.xml
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.AboutBox1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.calc.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Dolj.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.EdIzm.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form2.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form3.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form4.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.goods.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.LoginForm1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.main.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.oper.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.prod.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.sklad.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.SplashScreen1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.xml
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\bin\Release\ExhaustWork.exe.config
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Find.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\bin\Release\drugstore.mdf
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\bin\Release\drugstore_log.ldf
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.reg.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.find_prod.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Sotrud.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.budg.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.zForm5.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\bin\Release\ExhaustWork.exe.config
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.exe
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.xml
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.pdb
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\bin\Release\drugstore.mdf
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\bin\Release\drugstore_log.ldf
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\bin\Release\ExhaustWork.exe
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\bin\Release\ExhaustWork.pdb
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\bin\Release\ExhaustWork.xml
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.AboutBox1.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.budg.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.calc.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.ClientReg.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Dolj.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.EdIzm.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Find.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.find_prod.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form1.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form2.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form3.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form4.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.goods.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.LoginForm1.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.main.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Resources.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.oper.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.prod.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.reg.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.sklad.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Sotrud.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.SplashScreen1.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.zForm5.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Release\ExhaustWork.exe.config
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.exe
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.xml
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Release\shope.mdf
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Release\shope_log.ldf
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Release\ExhaustWork.exe
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Release\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Release\ExhaustWork.xml
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.AboutBox1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.budg.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.ClientReg.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Dolj.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.EdIzm.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Find.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.find_prod.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form2.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form3.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form4.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form5.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form6.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.goods.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.LoginForm1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.main.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.oper.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.prod.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.reg.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.sklad.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Sotrud.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.SotrudSearch.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.SplashScreen1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.zForm5.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\bin\Release\shope.mdf
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\bin\Release\shope_log.ldf
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\bin\Release\ExhaustWork.exe.config
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\bin\Release\ExhaustWork.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\bin\Release\ExhaustWork.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\bin\Release\ExhaustWork.xml
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.AboutBox1.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.budg.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.ClientReg.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Dolj.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.EdIzm.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Find.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.find_prod.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form2.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form3.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form4.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form5.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Form6.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.goods.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.LoginForm1.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.main.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.oper.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.prod.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.reg.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.sklad.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.Sotrud.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.SotrudSearch.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.SplashScreen1.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.zForm5.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.xml
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Release\ExhaustWork.pdb

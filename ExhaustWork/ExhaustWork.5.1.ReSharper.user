@@ -1,0 +1,86 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:Form5.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:goods.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:goods.Designer.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:goods.resx" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/d:My Project/f:Settings.settings" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/d:My Project/f:Settings.Designer.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:oper.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:oper.Designer.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:oper.resx" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:prod.Designer.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:prod.resx" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:reg.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:sklad.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:sklad.Designer.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:sklad.resx" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:Sotrud.Designer.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:Sotrud.resx" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:SotrudSearch.Designer.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:SotrudSearch.resx" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:SplashScreen1.Designer.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:zForm5.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:zForm5.Designer.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:zForm5.resx" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:Find.vb" caret="2634" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:SotrudSearch.vb" caret="671" fromTop="13" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:CrystalReport4.vb" caret="716" fromTop="18" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:Form4.vb" caret="1622" fromTop="20" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:Form6.vb" caret="597" fromTop="14" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:Sotrud.vb" caret="3845" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:prod.vb" caret="6144" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:Form6.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:goods.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:goods.Designer.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:goods.resx" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/d:My Project/f:Settings.settings" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:oper.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:oper.Designer.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:oper.resx" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:prod.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:prod.Designer.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:prod.resx" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:reg.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:sklad.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:sklad.Designer.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:sklad.resx" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:Sotrud.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:Sotrud.Designer.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:Sotrud.resx" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:SotrudSearch.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:SotrudSearch.Designer.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:SotrudSearch.resx" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:SplashScreen1.Designer.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:zForm5.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:zForm5.Designer.vb" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:zForm5.resx" caret="0" fromTop="0" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:SotrudSearch.vb" caret="671" fromTop="13" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:SotrudSearch.vb" caret="1701" fromTop="26" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:SotrudSearch.vb" caret="1453" fromTop="25" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:Form4.vb" caret="2230" fromTop="20" />
+      <File id="F2BC22EA-FC8F-4A84-9A8E-1D6F9CF15B18/f:Sotrud.vb" caret="5028" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

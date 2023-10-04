@@ -1,0 +1,953 @@
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sklad.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.calc.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\bin\Debug\drugstore.mdf
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\bin\Debug\drugstore_log.ldf
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+G:\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\bin\Debug\drugstore.mdf
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\bin\Debug\drugstore_log.ldf
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budget.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.calc.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotr.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Documents and Settings\Admin\Мои документы\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+G:\ExhaustWork\ExhaustWork\bin\Debug\drugstore.mdf
+G:\ExhaustWork\ExhaustWork\bin\Debug\drugstore_log.ldf
+G:\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+G:\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+G:\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+G:\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budget.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.calc.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotr.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+G:\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\drugstore.mdf
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\drugstore_log.ldf
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.calc.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Users\Viski\Desktop\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.calc.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\phone.mdf
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\phone_log.ldf
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\phone.mdf
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\phone_log.ldf
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.calc.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+C:\Users\DemonRulez\Desktop\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\phone.mdf
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\phone_log.ldf
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.calc.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+C:\Documents and Settings\Admin\Рабочий стол\Выпускная работа22\Выпускная работа\Выпускная работа\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\bin\Debug\phone.mdf
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\bin\Debug\phone_log.ldf
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.calc.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+C:\Users\Viske\Desktop\Rasul_Shop\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\bin\Debug\phone.mdf
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\bin\Debug\phone_log.ldf
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\phone.mdf
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\phone_log.ldf
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Users\Viske\Desktop\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+D:\DISTR\Univer\Диплом\Новая папка (2)\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+D:\DISTR\Univer\Диплом\Новая папка (2)\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+D:\DISTR\Univer\Диплом\Новая папка (2)\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+D:\DISTR\Univer\Диплом\Новая папка (2)\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\phone.mdf
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\phone_log.ldf
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\phone.mdf
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\phone_log.ldf
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Users\Viske\Desktop\ExhaustWork посл3\ExhaustWork посл3\ExhaustWork посл\ExhaustWork посл\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form6.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\phone.mdf
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\phone_log.ldf
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form6.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\phone.mdf
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\phone_log.ldf
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form6.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\shope.mdf
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\shope_log.ldf
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form6.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SotrudSearch.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Users\Viske\Desktop\ExhaustWork посл4\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\shope.mdf
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\shope_log.ldf
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form6.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SotrudSearch.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл4\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+H:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+H:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+H:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+H:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\bin\Debug\shope.mdf
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\bin\Debug\shope_log.ldf
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form6.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SotrudSearch.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+I:\RASUL\Прога\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\bin\Debug\shope.mdf
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\bin\Debug\shope_log.ldf
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form6.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SotrudSearch.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\shope.mdf
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\shope_log.ldf
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form6.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SotrudSearch.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+I:\RASUL\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\shope.mdf
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\shope_log.ldf
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form6.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SotrudSearch.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+D:\DISTR\Univer\Диплом\Новая папка (2)\Прога\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\shope.mdf
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\shope_log.ldf
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form6.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SotrudSearch.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+C:\Users\Owner\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\shope.mdf
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\shope_log.ldf
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form6.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SotrudSearch.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+C:\Users\Viske\Desktop\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\shope.mdf
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\shope_log.ldf
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form6.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SotrudSearch.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork совсем посл верс\ExhaustWork совсем посл верс\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form6.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SotrudSearch.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\bin\Debug\shope.mdf
+C:\Documents and Settings\Admin\Рабочий стол\ExhaustWork\ExhaustWork\bin\Debug\shope_log.ldf
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\bin\Debug\shope.mdf
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\bin\Debug\shope_log.ldf
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form6.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SotrudSearch.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe.config
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.exe
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.xml
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.pdb
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\shope.mdf
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\shope_log.ldf
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.exe
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.pdb
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\ExhaustWork.xml
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\CrystalDecisions.Shared.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\FlashControlV71.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\stdole.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\bin\Debug\ShockwaveFlashObjects.dll
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbprojResolveAssemblyReference.cache
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.AboutBox1.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.budg.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.ClientReg.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Dolj.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.EdIzm.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Find.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.find_prod.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form1.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form2.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form3.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form4.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form5.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Form6.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.goods.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.LoginForm1.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.main.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Resources.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.oper.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.prod.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.reg.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.sklad.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.Sotrud.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SotrudSearch.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.SplashScreen1.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.zForm5.resources
+C:\Arhidea\ExhaustWork\ExhaustWork\obj\Debug\ExhaustWork.vbproj.GenerateResource.Cache
